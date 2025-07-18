@@ -6,6 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitsonani1&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
+</p>
+
 <!---
 akshitsonani1/akshitsonani1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
